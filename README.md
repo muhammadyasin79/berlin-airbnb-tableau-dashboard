@@ -7,21 +7,21 @@ host performance, and revenue insights across all 12 Berlin districts.
 ## 📊 Dashboards
 
 ### 1. Overview & Pricing
-![Dashboard 1](Berlin Airbnb Analysis.png)
+![Dashboard 1](Berlin_Airbnb_Analysis.png)
 - Interactive map of 14,274 Berlin listings
 - Average nightly price by district
 - Price distribution across Berlin
 - Price vs review rating by neighbourhood
 
 ### 2. Host Analysis
-![Dashboard 2](Berlin Host Analysis.png)
+![Dashboard 2](Berlin_Host_Analysis.png)
 - Superhost vs Regular Host KPI comparison
 - Superhost concentration map across Berlin
 - Top 10 most reviewed listings
 - Availability rate by district and room type
 
 ### 3. Market Intelligence
-![Dashboard 3](Berlin Market Intelligence.png)
+![Dashboard 3](Berlin_Market_Intelligence.png)
 - Revenue estimate by district
 - Price trend by minimum nights
 - Listing count by district
