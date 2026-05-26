@@ -4,6 +4,10 @@ An interactive Tableau dashboard analyzing the Berlin Airbnb market using
 real 2026 data from InsideAirbnb. The project covers pricing, availability, 
 host performance, and revenue insights across all 12 Berlin districts.
 
+## 🌐 Live Dashboard
+
+👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/muhammad.yasin7812/viz/Berlin_Airbnb_Dashboard/BerlinAirbnbCompleteAnalysis)
+
 ## 📊 Dashboards
 
 ### 1. Overview & Pricing
@@ -62,6 +66,10 @@ host performance, and revenue insights across all 12 Berlin districts.
 Data provided by [InsideAirbnb](http://insideairbnb.com/get-the-data/)
 — Berlin, Germany 2026
 
----
-*Created as part of Tableau Lab course project — 
-University of Bologna, May 2026*
+## 👤 Author
+
+**Muhammad Yasin**  
+Data Science | Business Intelligence & Dashboarding | Computer Vision | Sports Analytic
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Yasin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-yasin-ds)
+[![GitHub](https://img.shields.io/badge/GitHub-muhammadyasin79-black?style=flat&logo=github)](https://github.com/muhammadyasin79)
